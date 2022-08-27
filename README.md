@@ -23,4 +23,6 @@ Invoca aplicaciones de Windows mediante un shell de línea de comandos de tipo U
 Invoca aplicaciones de GNU/Linux en Windows.
 Ejecución de aplicaciones gráficas GNU/Linux que están integradas directamente en el escritorio de Windows
 Uso de la aceleración de GPU para el aprendizaje automático, escenarios de ciencia de datos y mucho más.
+
 ![_hu7690e488cc885d20b3ebfbff56e82778_52924_d232a29147324f30e99c537d323c0ab2](https://user-images.githubusercontent.com/101933399/187037057-66fbf0d2-1e89-4b24-a2ff-4fb65670afb7.jpg)
+
